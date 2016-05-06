@@ -4,3 +4,4 @@ Git has a mutable index called stage c.
 Git tracks changes of files.
 Git add remote repository
 Git add two 
+add branch
