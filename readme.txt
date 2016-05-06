@@ -6,3 +6,4 @@ Git add remote repository
 Git add two 
 add branch
 Creating a new branch is quick and simple
+add merge
